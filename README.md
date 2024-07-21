@@ -48,4 +48,4 @@ Run the provided do-file in Stata to perform the analysis.
 The code is inspired by the econometric routines of Eberhardt and Presbitero's (2015) JIE article, on Dr. Eberhardt's GitHub repository.
 
 **8. Acknowledgments**
-This study acknowledges the data sources and literature that have been fundamental in conducting this research. I also thank Markus Eberhardt for sharing his stata routines.
+This study acknowledges the data sources and literature that have been fundamental in conducting this research. I also thank Professor Eberhardt's for sharing his stata routines.
