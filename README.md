@@ -31,7 +31,7 @@ Penn World Tables (Feenstra et al., 2015)
 Barro and Lee (2013) Education Attainment Data
 
 **5. Software Requirements**
-To work with this data, the following software is required:
+To work with this data, the following software are required:
 
 Stata
 R
