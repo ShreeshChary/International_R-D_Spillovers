@@ -1,8 +1,7 @@
-# Load necessary libraries
+
 library(dplyr)
 library(gridExtra)
 library(ggplot2)
-setwd("C:/Users/shree/OneDrive/Desktop/MSc Dissertation")
 
 plot2<-ggplot(Data_Dissertation_Alternate, aes(x = lp, y = lf, color= Country)) +
   geom_smooth(method = "lm", formula = y ~ poly(x,1), se = FALSE, aes(group = Country), size = 1) +  # Linear fits for each country
