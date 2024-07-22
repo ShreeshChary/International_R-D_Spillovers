@@ -2,7 +2,6 @@ library(dplyr)
 library(gridExtra)
 library(ggplot2)
 library(ggrepel)
-setwd("C:/Users/shree/OneDrive/Desktop/MSc Dissertation")
 
 lsdch<- ggplot(Data_Dissertation_Alternate, aes(x = ADTF, y = lsdch)) +
   geom_point(aes(group = Country), size = 1) +  # Points for each country
