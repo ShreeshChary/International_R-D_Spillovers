@@ -1,4 +1,14 @@
-
+################################################################################################################
+#                                              Shreesh Chary
+# Heterogeneity and Non-Linearities in International Knowledge Spillovers: Evidence Using Novel Panel Estimators
+################################################################################################################
+#			   	                           Created: 20th July 2024				
+#			   	                                    Revised: 					
+################################################################################################################
+#  	 		                   School of Economics, University of Nottingham,			
+#		                 University Park, Nottingham NG7 2RD, United Kingdom			
+#			                           email: shreeshchary@gmail.com; lexsc28@nottingham.ac.uk				
+################################################################################################################
 library(dplyr)
 library(gridExtra)
 library(ggplot2)
