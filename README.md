@@ -45,7 +45,7 @@ To reproduce the results:
 Use the clean data file.
 Import the data into Stata.
 Run the provided do-file in Stata to perform the analysis.
-The code is inspired by the econometric routines of Eberhardt and Presbitero's (2015) JIE article, on Dr. Eberhardt's GitHub repository.
+The code is inspired by the econometric routines of Eberhardt and Presbitero's (2015) JIE article, on Prof. Eberhardt's GitHub repository.
 
 **8. Acknowledgments**
 This study acknowledges the data sources and literature that have been fundamental in conducting this research. I also thank Professor Eberhardt for sharing his stata routines.
